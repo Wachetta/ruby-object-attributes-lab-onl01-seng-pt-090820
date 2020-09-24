@@ -1,5 +1,5 @@
 class Person
-  def name 
+  def name=(name) 
     @name = name 
   end
   
@@ -7,7 +7,7 @@ class Person
     @name
   end
   
-  def jobs
+  def jobs=(jobs)
     @jobs = jobs
   end 
   
