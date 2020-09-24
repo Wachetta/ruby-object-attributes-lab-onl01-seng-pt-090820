@@ -8,7 +8,7 @@ class Dog
   
   def name
     @name
-  binding.pry
+  #binding.pry
   end
   
 end
