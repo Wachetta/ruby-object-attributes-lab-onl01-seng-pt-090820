@@ -14,5 +14,5 @@ class Dog
 end
 
 cheddar = Dog.new 
-cheddar.name("cheddar")
+cheddar.name= "cheddar"
 puts cheddar.name
