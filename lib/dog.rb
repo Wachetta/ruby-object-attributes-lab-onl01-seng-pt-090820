@@ -12,3 +12,4 @@ end
 
 cheddar = Dog.new 
 cheddar.name("cheddar")
+puts cheddar.name
