@@ -21,4 +21,4 @@ bob = Person.new
 bob.name = "Bob"
 bob.jobs = "Fighter"
 puts bob.name
-puts bob.job
+puts bob.jobs
