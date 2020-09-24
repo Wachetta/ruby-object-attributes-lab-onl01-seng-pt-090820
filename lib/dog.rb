@@ -10,4 +10,5 @@ class Dog
   
 end
 
-dog.name
+cheddar = Dog.new 
+cheddar.name("cheddar")
